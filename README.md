@@ -7,7 +7,7 @@ The Android Studio project is in `recyclerview/`.
 - A Java RecyclerView first displayed four supplied names.
 - The current version creates a 40-element String array. A for loop assigns Person 1 through Person 40.
 - The adapter displays each stored string in an Android built-in text row.
-- The app ran in Android Studio's Medium Phone emulator and was scrolled to Person 40. Screenshots are in `evidence/`.
+- The app ran in Android Studio's Medium Phone emulator and was scrolled to Person 40. Original-resolution screenshots of the beginning and end of the list are in `evidence/Lab5_list_top.png` and `evidence/Lab5_list_bottom.png`. Earlier screenshots are retained in `evidence/`.
 
 ## Open and run
 
